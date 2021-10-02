@@ -1,0 +1,6 @@
+C:\Users\cando\source\repos\DateTime Metod\DateTime Metod\bin\Debug\DateTime Metod.exe.config
+C:\Users\cando\source\repos\DateTime Metod\DateTime Metod\bin\Debug\DateTime Metod.exe
+C:\Users\cando\source\repos\DateTime Metod\DateTime Metod\bin\Debug\DateTime Metod.pdb
+C:\Users\cando\source\repos\DateTime Metod\DateTime Metod\obj\Debug\DateTime Metod.csproj.CoreCompileInputs.cache
+C:\Users\cando\source\repos\DateTime Metod\DateTime Metod\obj\Debug\DateTime Metod.exe
+C:\Users\cando\source\repos\DateTime Metod\DateTime Metod\obj\Debug\DateTime Metod.pdb
